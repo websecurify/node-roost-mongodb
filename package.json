@@ -1,0 +1,22 @@
+{
+	"name": "roost-mongodb",
+	"version": "0.1.0",
+	"author": "Websecurify <contact@websecurify.com>",
+	"description": "Plugin which helps install mongodb 10gen.",
+	"license": "MIT",
+	
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/websecurify/node-roost-mongodb.git"
+	},
+	
+	"keywords": [
+		"roost"
+	],
+	
+	"main": "index.js",
+	
+	"directories": {
+		"lib": "./lib/"
+	}
+}
