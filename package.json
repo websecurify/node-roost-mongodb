@@ -1,6 +1,6 @@
 {
 	"name": "roost-mongodb",
-	"version": "0.1.5",
+	"version": "0.1.7",
 	"author": "Websecurify <contact@websecurify.com>",
 	"description": "Plugin which helps install mongodb 10gen.",
 	"license": "MIT",
